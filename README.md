@@ -10,7 +10,7 @@
 
 É um Formulário para criação de contas com validações em todos seus inputs.<br>
 
-Qunado o usuário deixa de preencher algum campo, ou preenche de forma incorreta, <br>
+Quando o usuário deixa de preencher algum campo, ou preenche de forma incorreta, <br>
 é mostrado uma mensagem alertando o que tem de errado individualmente em cada input <br>
 e também deixa os campos incorretos marcados de vermelho para não ter como o usuário <br>
 não perceber que está preenchendo com alguma informação incorreta. <br>
