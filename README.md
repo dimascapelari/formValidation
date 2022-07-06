@@ -8,7 +8,7 @@
 
 ## 💻 Sobre o Projeto:
 
-É um Formmulário para criação de contas com validações em todos seus inputs.<br>
+É um Formulário para criação de contas com validações em todos seus inputs.<br>
 
 Qunado o usuário deixa de preencher algum campo, ou preenche de forma incorreta, <br>
 é mostrado uma mensagem alertando o que tem de errado individualmente em cada input <br>
